@@ -1,0 +1,23 @@
+.footer {
+  text-align: center;
+  background-color: rgb(48, 46, 46);
+  padding: 70px;
+  margin: 20px auto;
+}
+
+.footer a {
+  font-size: 40px;
+  color: black;
+}
+
+.footer .fas {
+  color: red;
+}
+
+.footer p {
+  color: aliceblue;
+}
+
+a {
+  text-decoration: none;
+}
